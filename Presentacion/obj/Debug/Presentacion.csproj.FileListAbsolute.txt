@@ -1,0 +1,60 @@
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.dll
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.dll
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.dll
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.pdb
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.pdb
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FmrAlquiler.resources
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmClientes.resources
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmVehiculos.resources
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\JOTA\Desktop\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.dll
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.dll
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.dll
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.pdb
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.pdb
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FmrAlquiler.resources
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmClientes.resources
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmVehiculos.resources
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\Dell Vostro\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.dll
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.dll
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.dll
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Datos.pdb
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Entidades.pdb
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\bin\Debug\Logica.pdb
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.AssemblyReference.cache
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FmrAlquiler.resources
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmClientes.resources
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmPrincipal.resources
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.FrmVehiculos.resources
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.cache
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.csproj.CoreCompileInputs.cache
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presenta.BC77CD05.Up2Date
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\kevin\OneDrive\Escritorio\yefr\ProyectoP3\Presentacion\obj\Debug\Presentacion.pdb
