@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 using Entidades;
 using Datos;
 
+
+//aqui
+
 namespace Logica
 {
     public class ServicioAlquiler : ICRUD<Alquiler>
